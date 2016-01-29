@@ -1,5 +1,5 @@
 {
-    "name": "kishore/date",
+    "name": "vvkishore/date",
     "description": "Date related classes.Date and time differences between two dates.",
     "type": "library",
     "autoload":{
